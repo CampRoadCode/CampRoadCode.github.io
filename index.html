@@ -23,7 +23,7 @@
             color: white;
         }
 
-        h3 {
+        h2 {
             width: 100%; 
             text-align: center; 
             border-bottom: 1px solid #000; 
@@ -31,11 +31,25 @@
             margin: 10px 0 20px; 
         } 
 
-        h3 span { 
+        h2 span { 
             background:#3769df; 
             padding:0 10px; 
         }
-    
+
+        .thumbnail {
+            height: 100px;
+            width: 500px;
+            display: flex;
+        }
+
+        .thumbimg {
+            height: 100px;
+            width: 100px;
+        }
+
+        thumbtext {
+            margin-left: 10px;
+        }
     </style>
 </head>
 <body>
@@ -46,9 +60,13 @@
         <br>
     </header>
     
-    <h3><span>-</span></h3>
+    <h2><span>-</span></h2>
 
 
+    <div class="thumbnail">
+        <img class="thumbimg" src="bathroom.png">
+        <h4 class="thumbtext">Camp Road Bathroom Policies:  What the students think</h4>
+    </div>
 
 </body>
 </html>
