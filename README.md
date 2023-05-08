@@ -1,3 +1,10 @@
-# Camp Road Middle School Studen-Ran Site
+# Camp Road Middle School Student-Ran Site
 
-                                                ![Camp_Road_MS_Logo_transp-removebg-preview](https://user-images.githubusercontent.com/120197740/236724200-de742035-b146-4f55-817b-3deae7df3b8a.png)
+![download](https://user-images.githubusercontent.com/120197740/236724687-6a3809a4-98c4-4d50-824b-d77a6cdf5d33.jpeg)
+
+This is a website for Camp Road Middle School.
+
+This website is ran by students, for students.  We have real news here, not bogus.  
+
+
+No sugarcoating, no propaganda, no bs, only real news here.
