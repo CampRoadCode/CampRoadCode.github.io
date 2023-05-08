@@ -67,13 +67,22 @@
             all: unset;
             text-decoration: none;
         }
+
+        .textbox {
+            background-color: #3769df;
+            transition: background-color 2s linear;
+        }
+
+        .textbox:hover {
+            background-color: white;
+        }
     </style>
 </head>
 <body>
     <header>
         <img src="logo.png">
         <h1>Camp Road Middle School</h1>
-        <h3>Student Site - Real News, Real Students</h3>
+        <h3>Student Site - Real Students, Real News</h3>
         <br>
     </header>
     
@@ -84,7 +93,9 @@
         <center>
             <div class="thumbnail">
                 <img class="thumbimg" src="bathroom.png">
-                <h4 class="thumbtext">Camp Road Bathroom Policies:  What the students think</h4>
+                <div class="textbox">
+                    <h4 class="thumbtext">Camp Road Bathroom Policies:  What the students think</h4>
+                </div>
             </div>
         </center>   
     </a>
